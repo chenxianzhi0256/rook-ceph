@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/snapshot-controller:v4.2.1
-MAINTAINER polarwu <185581098@qq.com>
+FROM gcr.io/k8s-staging-prometheus-adapter-amd64
+MAINTAINER polarwu <609503082@qq.com>
